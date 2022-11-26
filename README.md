@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Developers**
 
-- 💬 Ask me about **HTML,CSS,JS,TAILWIND, NODEJS, MONGOOSE, EXPRESS**
+- 💬 Ask me about **HTML,CSS,JS,TAILWIND, NODEJS, MONGODB, EXPRESS**
 
 - 📫 How to reach me **pro.paddusonu@gmail.com**
 
