@@ -11,10 +11,13 @@
 - 🌱 I’m currently learning **DevOps Methodologies**
 
 - 👯 I’m looking to collaborate on **DevOps Aspirants**
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🤝 I’m looking for help with **Cloud Architect Folks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Padmanabh-B](https://github.com/Padmanabh-B)
+
+
 
 - 💬 Ask me about **DevOps and Web-Development**
 
@@ -24,7 +27,6 @@
 
 - ⚡ Fun fact **A Furious Learner**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <h3 align="left">Connect with me:</h3>
